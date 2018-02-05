@@ -11,7 +11,7 @@ dsaiojd a
  as dasiudhasudh asd 
  asd uiashd as
 ```
-    After this step, `gcloud config configurations describe server-demo` should print:
+  After this step, `gcloud config configurations describe server-demo` should print:
 ```yaml
     doiasj das 
      dasuiohd as
